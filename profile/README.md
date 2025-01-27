@@ -60,7 +60,7 @@ MicroCore est une distribution Linux en mode console, non persistante et très l
 
 ### Tâches :
 - [X] **4.1** Développer `ifshow` sur la machine hôte.
-- [ ] **4.2** Intégrer `ifshow` à VyOS.
+- [X] **4.2** Intégrer `ifshow` à VyOS.
 - [X] **4.3** Intégrer `ifshow` à Alpine.
 - [X] **4.4** Intégrer `ifshow` à MicroCore.
 
