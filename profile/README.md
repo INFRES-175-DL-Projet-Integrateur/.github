@@ -11,7 +11,7 @@ VyOS est un système d’exploitation Linux basé sur Debian. Il permet de trans
 ### Tâches :
 - [x] **1.1** Créer une machine virtuelle intégrant VyOS (version 1.4.0).
 - [x] **1.2** Intégrer automatiquement le clavier azerty.
-- [ ] **1.3** Homogénéiser les noms des interfaces réseau des machines virtuelles clonées :
+- [x] **1.3** Homogénéiser les noms des interfaces réseau des machines virtuelles clonées :
   - Si une seule carte réseau : `eth0`.
   - Si deux cartes réseau : `eth0` et `eth1`.
   - Etc.
