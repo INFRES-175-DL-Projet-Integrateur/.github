@@ -99,9 +99,3 @@ NetLab est un réseau virtuel composé des machines virtuelles créées dans les
 
 ---
 
-## Instructions pour utiliser ce fichier :
-1. Cochez les cases `[ ]` en les remplaçant par `[x]` lorsque la tâche est terminée.
-2. Utilisez ce fichier pour suivre l'avancement des projets.
-3. Consultez les détails des tâches dans la documentation associée.
-
----
