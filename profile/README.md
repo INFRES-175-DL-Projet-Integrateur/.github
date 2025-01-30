@@ -2,6 +2,8 @@
 
 Ce fichier README.md sert à suivre l'avancement des projets et des tâches.
 
+![Représentation du réseau avec Packet Tracer](Représentation du réseau.png?raw=true "Représentation du réseau avec Packet Tracer")
+
 ---
 
 ## 1. VyOS : Le routeur virtuel
