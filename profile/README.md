@@ -36,8 +36,8 @@ Alpine est une distribution Linux graphique légère, idéale pour exécuter plu
   - Wireshark
   - Putty
 - [x] **2.4** Installer VMware Tools (intégration souris et résolution d'écran).
-- [ ] **2.5** Optimiser la taille du disque dur (utiliser `df` pour vérifier).
-- [ ] **2.6** Optimiser l'utilisation de la mémoire RAM (utiliser `free` pour vérifier).
+- [x] **2.5** Optimiser la taille du disque dur (utiliser `df` pour vérifier).
+- [x] **2.6** Optimiser l'utilisation de la mémoire RAM (utiliser `free` pour vérifier).
 
 ---
 
